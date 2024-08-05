@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pintu(The Gps)Pandit</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">A passionate frontend developer from  India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thegps&label=Profile%20views&color=0e75b6&style=flat" alt="thegps" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpspintu&label=Profile%20views&color=0e75b6&style=flat" alt="gpspintu" /> </p>
 
 - 🔭 I’m currently working on [Simply Vyapar Apps Private Limited](https://pintupandit.github.io/thegps/)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@TheGps](https://hashnode.com/@TheGps)
 
-- 💬 Ask me about **Vanilla JavaScript, Advanced JavaScript, DOM manipulation using HTML, CSS styling, Git (Version Control), Postman (API testing), Mysql, Testing, Cloud Computing, React.js**
+- 💬 Ask me about **Vanilla JavaScript, Advanced JavaScript, DOM manipulation using HTML, CSS styling, Git (Version Control), Postman (API testing), Mysql, Testing, Cloud Computing, React.js*
 
 - 📫 How to reach me **pintugps.in@gmail.com**
 
@@ -37,7 +37,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/The Gps "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="The Gps " /></a><a href="https://ko-fi.com/https://pintupandit.github.io/thegps/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://pintupandit.github.io/thegps/" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegps&show_icons=true&locale=en" alt="thegps" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpspintu&show_icons=true&locale=en" alt="gpspintu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegps&" alt="thegps" /></p>
 
