@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpspintu&label=Profile%20views&color=0e75b6&style=flat" alt="gpspintu" /> </p>
 
-- 🔭 I’m currently working on [Simply Vyapar Apps Private Limited](https://pintupandit.github.io/thegps/)
+- 🔭 I’m currently working on [Simply Vyapar Apps Private Limited] (https://pintupandit.github.io/thegps/)
 
 - 🌱 I’m currently learning **React.js and Node.js *DSA***
 
