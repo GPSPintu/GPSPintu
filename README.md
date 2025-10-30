@@ -86,30 +86,9 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=gpspintu&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gpspintu&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpspintu&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
-
-### 🔥 Streak Insights  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-27%20Days-brightgreen?style=for-the-badge&logo=github" alt="Current Streak Badge"/>
-  <img src="https://img.shields.io/badge/🏆%20Highest%20Streak-85%20Days-blueviolet?style=for-the-badge&logo=github" alt="Highest Streak Badge"/>
-</p>
-
-<p align="center">
-  📅 <b>Current Streak Date:</b> October 29, 2025  
-</p>
-
----
-
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/gpspintu/gpspintu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 > 🎮 *Watch the snake eat my commits — proof of consistency and curiosity.*
 
@@ -127,7 +106,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 ### ✍️ I Write Here  
 
 📘 [**Hashnode Blog – The GPS**](https://hashnode.com/@TheGps)  
-> Writing about **Node.js**, **Automation**, **APIs**, and **Microservices.**
+> Writing about **Node.js**, **Automation**, **APIs**, **Microservices**, **JavaScript**, and many more topics.
 
 ---
 
@@ -162,6 +141,14 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
   <b>“Keep learning. Keep building. Keep growing.”</b> 🚀  
 </p>
 
+---
+
+## 🦈 My GitHub Achievements
+- 🦈 *Pull Shark* – 2+ merged pull requests  
+- 🌟 *Starstruck* – My repositories received stars  
+- 🧠 *Galaxy Brain* – Helped others with discussions  
+
+<!-- GitHub Linguist Settings -->
+
 <!-- SEO Keywords -->
 <!-- Keywords: Pintu Pandit, Full Stack Developer, Node.js, React.js, Automation Engineer, MERN Stack, CRM Integrations, Web Developer, JavaScript Developer, Next.js, TypeScript, DevOps, API Automation, Global Problem Solver -->
-
