@@ -31,7 +31,7 @@ Greetings, fellow explorers! 👋
 I’m **Pintu Pandit**, also known as **“The GPS – Global Problem Solver.”**  
 I build bridges between **humans and machines**, creating **automated, scalable, and empathetic solutions** that make businesses smarter.
 
-> 💬 *“Code is my compass, empathy my engine — I navigate complexity with creativity.”*
+> 💬 *“Code is my compass, empathy my engine I navigate complexity with creativity.”*
 
 ---
 
@@ -85,8 +85,8 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 ---
 
 ### 🏆 Highlights & Achievements
-✨ 3× Best Performer — Vyapar Apps  
-✨ 3× Best Performer — NeoDove Technologies  
+✨ 3× Best Performer Vyapar Apps  
+✨ 3× Best Performer  NeoDove Technologies  
 ⚡ Built 20+ automation pipelines integrating CRM & APIs  
 🌟 Reduced client churn by 30% through automated engagement  
 🧭 Mentored junior engineers on API logic & CRM architecture  
@@ -102,15 +102,14 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 
 ---
 
-### 🧭 2025 Roadmap
+### 🧭 2025 Roadmap  
 
-- Mastering **TypeScript**, **Next.js**, and **GraphQL**  
-- Deep-diving into **System Design & Architecture**  
-- Building **AI-Powered CRM Automations**  
-- Exploring **Google Software Engineer Career Path**  
-- Expanding **The GPS Platform** for Travel & Automation Communities  
-
----
+🧠 **Mastering:** TypeScript, Next.js, and GraphQL  
+🏗️ **Deep-diving into:** System Design & Architecture  
+🤖 **Building:** AI-powered CRM Automations  
+🚀 **Exploring:** The Google Software Engineer Career Path  
+💡 **Creating:** *DevTinder*, a platform for developers to connect, collaborate, and grow together  
+-----
 
 ### 📊 GitHub Analytics
 
@@ -145,7 +144,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 ---
 
 ### ☕ Fun Fact
-> I debug life the same way I debug code — with `console.log()`, curiosity, and coffee. ☕💙  
+> I debug life the same way I debug code  with `console.log()`, curiosity, and coffee. ☕💙  
 
 ---
 
@@ -162,7 +161,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 
 ### 🦈 GitHub Achievements
 - 🦈 Pull Shark — Merged open-source PRs  
-- 🌟 Starstruck — Repos loved by community  
+- 🌟 Starstruck — Repos loved by the community  
 - 🧠 Galaxy Brain — Contributed solutions in dev discussions  
 
 ---
@@ -170,5 +169,5 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 <!-- =====================================================
 🔍 SEO & Metadata
 ===================================================== -->
-<meta name="description" content="Pintu (The GPS) Pandit — Senior CRM Support Specialist & Full-Stack Developer creating automation pipelines and CRM integrations that bridge technology and human purpose." />
+<meta name="description" content=" Pintu Pandit — Senior CRM Support Specialist & Full-Stack Developer creating automation pipelines and CRM integrations that bridge technology and human purpose." />
 <!-- Keywords: Pintu Pandit, The GPS, Full Stack Developer, Automation Engineer, CRM Integration Specialist, MERN Stack, Node.js, React, Next.js, API Automation, Global Problem Solver -->
