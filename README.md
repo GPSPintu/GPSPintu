@@ -51,7 +51,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 | 🧩 **Full-Stack Development** | Build secure, responsive, and scalable MERN stack applications |
 | ☁️ **Cloud & DevOps** | CI/CD pipelines, Docker containers, and AWS deployments |
 | 🤖 **Automation & API Integrations** | Create low-code/no-code workflows to save time and reduce errors |
-| 💬 **CRM Expertise** | Work with NeoDove, LeadSquared, Vyapar, WhatsApp APIs, and automation workflows |
+| 💬 **CRM Expertise** | NeoDove, LeadSquared, Vyapar, WhatsApp APIs, and automation workflows |
 | 🧭 **Mentorship** | Guide developers in API integrations, Node.js, and CRM systems |
 
 ---
@@ -60,72 +60,113 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 
 #### 🚀 **NeoDove Technologies Pvt Ltd**  
 *Senior CRM Support Specialist (June 2025 – Present)*  
-- Built 20+ CRM automation workflows integrating WhatsApp, Shopify, Razorpay & IndiaMART  
-- Implemented Zapier & Pabbly automations, boosting client efficiency by **35%**  
-- Provided API/Webhook support using Postman and trained over 100 users  
-- Configured TeleCMI, Exotel, and MyOperator IVR systems  
+- Built 40+ CRM automation workflows integrating WhatsApp, Shopify, Razorpay & IndiaMART  
+- Zapier & Pabbly automations are boosting client efficiency by 35%  
+- API/Webhook support + trained 1000+ users  
+- Configured TeleCMI, Exotel & MyOperator systems  
 
 #### 💼 **Simply Vyapar Apps Pvt Ltd**  
 *Technical Support Specialist (Jan 2024 – Jun 2025)*  
-- Recognized **3× Best Performer** for innovation in CRM automation  
-- Resolved 1000+ technical issues and maintained ERP systems (Vyapar, Tally, Udyog ERP)  
-- Automated recurring workflows and optimized ticket management with Jira  
+- Recognized **3× Best Performer**  
+- Resolved 1000+ technical issues  
+- Automated workflows & optimized ERP/CRM operations  
 
 #### 🏢 **No Broker Technologies Pvt Ltd**  
 *Customer Support Specialist (Jul 2023 – Nov 2023)*  
-- Improved client retention through empathetic support for 150+ daily interactions  
-- Awarded **Rising Star of the Month** for workflow innovation  
+- 150+ daily interactions  
+- Awarded **Rising Star of the Month**  
 
 #### 🧰 **Siechem Cables & Wires Technology Pvt Ltd**  
 *Quality Control Intern*  
-- Conducted electrical data testing and contributed to process improvements  
+- Electrical testing + process optimization  
 
 ---
 
 ### 🏆 Highlights & Achievements
-- 3× Best Performer at Vyapar Apps & NeoDove  
-- Built 20+ automated pipelines connecting CRMs & APIs  
-- Reduced client churn by 30% through automated engagement  
-- Mentored junior engineers on APIs, CRM design, and workflow optimization  
+- 3× Best Performer (Vyapar + NeoDove)  
+- 200+ automated pipelines delivered  
+- Reduced client churn by 35%  
+- Mentored Juniors in API automation  
 
 ---
 
 ### 🧩 Education
 
 **B.Tech — Electronics & Communication Engineering**  
-*MAKAUT University (2019 – 2023)*  
+*MAKAUT University (2019–2023)*  
 - CGPA 8.7 / 10  
-- 🏅 OASIS Scholarship Recipient | 🏆 KRITI Award 2021 for Academic Excellence  
+- OASIS Scholarship  
+- KRITI Award 2021  
 
 ---
 
-### 🧭 2025 Roadmap  
+## 🧭 2025 Roadmap  
 
-🧠 **Mastering:** TypeScript, Next.js, GraphQL  
-🏗️ **Deep-diving into:** System Design & Architecture  
-🤖 **Building:** AI-powered CRM Automations  
-🚀 **Exploring:** Google Software Engineer Career Path  
-💡 **Creating:** *DevTinder*, a platform for developers to connect, collaborate, and grow  
+🧠 Mastering: TypeScript, Next.js, GraphQL  
+🏗️ Deep-diving: System Design & Architecture  
+🤖 Building: AI-powered CRM Automations  
+🚀 Exploring: Google Software Engineer Path  
+💡 Creating: DevTinder Platform  
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Analytics (Premium Edition)
 
+---
+
+## 📌 Contribution Graph & Streak Stats  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gpspintu&bg_color=0d1117&color=00b8d4&line=00ff99&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gpspintu&bg_color=0d1117&color=00eaff&line=00ff99&point=ffffff&area=true&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gpspintu&show_icons=true&theme=radical&hide_border=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gpspintu&theme=radical&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gpspintu&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
+## 📌 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpspintu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+## 📌 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpspintu&layout=compact&theme=radical&langs_count=10&hide_border=false" />
+</p>
+
+---
+
+## 📌 GitHub Profile Summary Cards  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpspintu&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpspintu&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gpspintu&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gpspintu&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gpspintu&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
+## 📌 GitHub Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gpspintu&theme=dracula&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+
 ### ✍️ Writing & Blogs
 
-📘 [Hashnode Blog – The GPS](https://hashnode.com/@TheGps)  
-> I share insights on **Node.js**, **automation**, **APIs**, **microservices**, and **JavaScript engineering**.  
+📘 **Hashnode – The GPS**  
+https://hashnode.com/@TheGps  
+> Insights on Node.js, APIs, automation & engineering.
 
 ---
 
@@ -149,7 +190,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 ### ❤️ Support My Journey
 
 ⭐ If my work inspires you, **star this repo** or explore my portfolio:  
-🎯 [**The GPS Portfolio →**](https://pintupandit.github.io/thegps/)
+🎯 https://pintupandit.github.io/thegps/
 
 <p align="center">
   <b>“Keep learning. Keep building. Keep growing.”</b> 🚀  
@@ -157,15 +198,15 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 
 ---
 
-### 🦈 GitHub Achievements
-- 🦈 Pull Shark — Merged open-source PRs  
-- 🌟 Starstruck — Repos loved by the community  
-- 🧠 Galaxy Brain — Contributed solutions in dev discussions  
+### 🦈 GitHub Achievements  
+- 🦈 Pull Shark  
+- 🌟 Starstruck  
+- 🧠 Galaxy Brain  
 
 ---
 
 <!-- =====================================================
 🔍 SEO & Metadata
 ===================================================== -->
-<meta name="description" content="Pintu Pandit — Senior CRM Support Specialist & Full-Stack Developer crafting automation pipelines and CRM integrations that connect technology with human purpose." />
+<meta name="description" content="Pintu Pandit — Senior CRM Specialist & Full-Stack Developer crafting automation pipelines and CRM integrations." />
 <meta name="keywords" content="Pintu Pandit, The GPS, Full-Stack Developer, Automation Engineer, CRM Integration Specialist, MERN Stack, Node.js, React, Next.js, API Automation, Global Problem Solver, Zapier, Pabbly, IVR Systems, Cloud, DevOps, AI Integrations" />
