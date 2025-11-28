@@ -69,7 +69,7 @@ Zapier · Pabbly · TeleCMI · Exotel · AiSensy · MyOperator · LeadSquared ·
 *Technical Support Specialist (Jan 2024 – Jun 2025)*  
 - Recognized **3× Best Performer**  
 - Resolved 1000+ technical issues  
-- Automated workflows & optimized ERP/CRM operations  
+- Automated workflows & optimised ERP/CRM operations  
 
 #### 🏢 **No Broker Technologies Pvt Ltd**  
 *Customer Support Specialist (Jul 2023 – Nov 2023)*  
