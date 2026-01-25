@@ -1,5 +1,5 @@
 <!-- =====================================================
-🌍 PINTU (THE GPS) PANDIT — GLOBAL PROBLEM SOLVER | 2025
+🌍 PINTU (THE GPS) PANDIT — GLOBAL PROBLEM SOLVER | 2026
 ===================================================== -->
 
 <!-- Header Typing Animation -->
