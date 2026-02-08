@@ -24,7 +24,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 Hi there! 👋 I’m **Pintu Pandit**, also known as **“The GPS – Global Problem Solver.”**  
 I help businesses navigate complexity by connecting humans and technology through **automation, scalable solutions, and smart workflows**.  
